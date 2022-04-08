@@ -1,0 +1,33 @@
+#getNumber{
+    font-size: 22px;
+    text-align: center;
+    justify-content: center;
+}
+.header{
+    text-align: center;
+    font-size: 22px;
+    color: #fca311;
+    background-color: #14213d;
+}
+.inputNumberBox{
+    display: flex;
+    justify-content: center;
+}
+#paragraph{
+    margin-left: 20px;
+    font-size: 18px;
+    padding: 20px;
+    text-align: center;
+    border:#fca311;
+    border-style: solid;
+    border-width: 7px;
+    color:#fca311;
+}
+.paragraph{
+    text-align: center;
+    padding: 10px;
+    color:#fca311;
+}
+body{
+    background-color: #14213d;
+}
